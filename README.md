@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vaibhav Kute</h1>
 <h3 align="center">Budding Developer!!</h3>
 
-<p align="left"> <a href="https://twitter.com/thevaibhavkute" target="blank"><img src="https://img.shields.io/twitter/follow/thevaibhavkute?logo=twitter&style=for-the-badge" alt="thevaibhavkute" /></a> </p>
+- 🌱 I’m currently learning **Android, Kotlin, React, Node, PHP.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
