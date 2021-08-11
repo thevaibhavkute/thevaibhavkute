@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Vaibhav Kute</h1>
+<!-- <h1 align="center">Hi, I'm Vaibhav Kute</h1>
 <h3 align="center">Budding Developer!!</h3>
-
+ -->
+ ![image](https://cdn.discordapp.com/attachments/874963872296108062/875114185497915413/github-banner.png)
+ 
 - 🔭 I’m currently working on **Some android and web projects.**
 - 🌱 I’m currently learning **Android, Kotlin, React, Node, PHP.**
 - 
 
-![image](https://www.snhu.edu/-/media/images/banners/personal-growth-quotes-banner.ashx)
+<!-- ![image](https://www.snhu.edu/-/media/images/banners/personal-growth-quotes-banner.ashx) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
