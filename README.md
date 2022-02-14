@@ -5,7 +5,7 @@
  ![image](https://cdn.discordapp.com/attachments/874963872296108062/875114185497915413/github-banner.png)
 -
 - 🔭 I’m currently working on **Some android and web projects.**
-- 🌱 I’m currently learning **Android, Kotlin, React, Node, PHP.**
+- 🌱 I’m currently learning **Android, React, Node, PHP.**
 - 
 
 <!-- ![image](https://www.snhu.edu/-/media/images/banners/personal-growth-quotes-banner.ashx) -->
